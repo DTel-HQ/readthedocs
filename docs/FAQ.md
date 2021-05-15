@@ -40,10 +40,10 @@ Letters will be converted to their corresponding number. For example, `>dial 030
 
 ### What commands can I use during a call?
 * `>pickup` & `>hangup` (remember to hang up a call, or the bot will keep reminding you!)
-* `>hold`: Puts the call on hold. Everything you say after the command will not be sent over, unless you remove the hold by using `>hold` again.
-  * Tip: A quoted message (messages starting with `>`) will not be sent either.
+* `>hold`: Puts the call on hold. Everything you say after using the command will not be sent over, until you remove the hold by using `>hold` again.
+  * Tip: Quoted messages (messages starting with `>`) will not be sent either.
 * `>transfer <number>`: Transfer the call to another number. This is equivalent to you using `>hangup` and the other side using `>dial <number>`.
-* `>pay <user (ID or mention)> <amount> [optional: message]`: Pay people in a call! Convenient for phoning restaurants or cafes. Roleplay ones, of course. (Fees apply; currently 15% for normal users and 5% for [donators](./VIP-Numbers). These are subject to change.)
+* `>pay <user (ID or mention)> <amount> [optional: message]`: Pay people in a call! Convenient for phoning restaurants or cafes. Roleplay ones, of course. (Fees apply; currently 15% for normal users and 5% for [donators](./VIP-Numbers). These fees are subject to change.)
 
 ### How do I keep my number active?
 DTel will charge you in-bot credits to make sure all numbers are being actively used. A number, once expired, can no longer receive or make calls, until you
