@@ -1,6 +1,7 @@
 site_name: DTel
 site_url: https://dtel.austinhuang.me
 repo_url: https://github.com/austinhuang0131/dtel
+edit_uri: ''
 theme:
   name: readthedocs
 markdown_extensions:
