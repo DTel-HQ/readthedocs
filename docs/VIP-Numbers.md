@@ -7,7 +7,7 @@ Please note: VIP benefits and pricing are subject to change. These will be annou
 ## Current rates
 £2.50 (GBP), €2.50 (EUR), $3 (USD) or CA$4 (CAD) = 1 VIP month.
 
-If you wish to pay recursively (credit / PayPal / SEPA), use our Liberapay: <script src="https://liberapay.com/DTel/widgets/button.js"></script>
+You're recommended to use our Liberapay (credit / PayPal / SEPA), as it will share the donation with all the team members: <script src="https://liberapay.com/DTel/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/DTel/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 Otherwise, you can manually donate to one of the three maintainers:
